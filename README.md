@@ -21,7 +21,7 @@ The **AI Powered Travel Planner** is a smart travel assistant that helps users f
 - Streamlit
 - Langchain
 - Google Gemini AI
-- Pandas
+
 
 ## Steup Instructions
 1. **Clone the Repository**
